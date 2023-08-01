@@ -4,8 +4,9 @@
 - [111學年度資訊工程學系碩士班研究生『碩士學位考試』注意事項](https://dcs.site.nthu.edu.tw/p/404-1174-184424.php)
 - [國立清華大學畢業生離校程序說明](https://registra.site.nthu.edu.tw/var/file/211/1211/img/75/master_08.pdf)
 - [Turnitin申請](https://learning.site.nthu.edu.tw/p/412-1319-6168.php?Lang=zh-tw)
+- [國立清華大學圖書館博碩士論文下載區](https://www.lib.nthu.edu.tw/ETD/downloads/downloads.htm)
 
-## 口試前 Steps
+## 口試前
 0. 跑流程
 >  - 校務資訊系統 -> 研究生學位考試 -> 登錄作業: 輸入論文題目以及口委資料等等，之後會收到系辦寄信通知申請通過
 >  - 校務資訊系統 -> 研究生學位考試 -> 報表(1~3): 列印教授推薦書、委員審定書、口試評分單，並口試前一周交到系辦
@@ -60,5 +61,20 @@
 - 委員審定書 (正本)
 
 ## 口試後流程
-TODO
+1. 整理口委問題，做成投影片跟老師以及學長開會討論這些問題是怎麼回復
+>  - 看看是要補做實驗、修改論文內容、或是放到Future work之類的
+2. 根據討論結果修改論文以及投影片，跟老師確認是否OK
+3. 準備一份Review summary，寄信給口委(附上修改後的論文以及投影片)
 
+## 離校流程
+1. 根據[這個](https://www.lib.nthu.edu.tw/ETD/downloads/downloads.htm)第二點**博碩士論文上傳說明**去準備檔案
+>  - 我們應該是會用latex，第一步論文轉檔應該是直接從D.擷取摘要檔開始，然後E.保全
+>  - 加密部分可以使用 PDF-XChanger Editor
+2. 同樣根據[這個](https://www.lib.nthu.edu.tw/ETD/downloads/downloads.htm)第二點**博碩士論文上傳說明**去圖書館網頁上傳剛剛準備好的資料
+>  - 論文封面只能有年月，不能有年月日，不然會被退件
+>  - ~~授權部分，紙本論文立即公開、電子檔論文延後公開、臺灣博碩士論文知識加值系統(國家圖書館)不同意授權~~(不確定)
+
+## To-do
+- 論文 template
+- 電子郵件 template
+- Review summary template
